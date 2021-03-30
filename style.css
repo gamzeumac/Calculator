@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+
+.sayfa{
+    width: 360px;
+    margin: auto;
+}
+table {
+    background-color: bisque;
+    border-spacing: 10px;
+    text-align: center;
+}
+
+table .btn{
+    width: 60px;
+    background-color: gray;
+    text-align: center;
+    line-height: 60px;
+    color: #fff;
+    font-size: 1.5em;
+}
+
+#islem, #gosterge{
+    padding: 5px;
+    text-align: right;
+}
+
+#gosterge{
+    height: 60px;
+    background: indianred;
+    color: #333;
+    font-size: 1.8em;
+    text-align: right;
+    line-height: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+#islem{
+    background: cadetblue;
+}
